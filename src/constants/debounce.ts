@@ -1,0 +1,3 @@
+const DEBOUNCE_TIMEOUT_MS = 360;
+
+export default DEBOUNCE_TIMEOUT_MS;
